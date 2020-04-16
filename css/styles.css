@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  }
+  .far{
+      font-size: 12rem;
+      border: none;
+      color: white;
+  }
+  .love-image{
+      margin-bottom: 5rem;
+  }
+  .love-form{
+      color: white;
+      font-size: 20px;
+      font-weight: 400;
+  }
+  .txt{
+      width: 15%;
+      height: 25px;
+      font-size: 16px;
+      margin-right: 40px;
+  }
+  .lbl{
+      position: absolute;
+        bottom: 250px;
+  }
+  .btn{
+    position: absolute;
+    bottom: 150px;
+    left: 35rem;
+    padding: 5px;
+    width: 10rem;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    font-size: 16px;
+  }
